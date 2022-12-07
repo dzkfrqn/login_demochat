@@ -1,0 +1,80 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url("./Image/sample_background.png");
+  }
+
+  .content{
+    
+  }
+
+.h5_t1{
+  color: rgba(255,255,255,1);
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 35px;
+}
+
+.h3_t2{
+  color: rgba(255,255,255,1);
+  font-family: Montserrat;
+  font-weight: normal;
+  font-size: 20px;
+}
+
+.cb_home{
+  background-color: #6C6CBA;
+  background-image: url("../Assets/Image/pola.png");
+  background-size: 500px 582px;
+  background-repeat: no-repeat;
+  border: none;
+  border-radius: 20px;
+  margin-right: 50px;
+}
+
+.btn .btn-primary:hover{
+  background-color: #08084A;
+  
+}
+/* .card{
+  border-radius: 20px;
+  right:7px;
+  
+} */
+
+.card-text{
+  padding: 10px;
+}
+
+.card-title{
+  padding: 10px;
+
+}
+
+.btn_send{
+  width: 70px;
+  height: 27px;
+  float: right;
+  margin-right: 10px;
+  background-color: #FEA02E;
+  border-radius: 10px;
+  border-color: white;
+}
+
+.form-control{
+  width: 420px;
+  height: 47px;
+  background: rgb(255, 255, 255);
+  opacity: 1;
+  border-color: #FEA02E;
+  border-radius:20px;
+}
+
+.font-label{
+  color: white;
+  font-family: Montserrat;
+  font-weight: bold;
+}
+
+
+
